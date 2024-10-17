@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cigotajavo.pages.dev/sitemap.xml
